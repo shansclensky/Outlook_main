@@ -1,0 +1,7 @@
+behave
+jinja2==2.10
+allure_behave==2.5.2
+pytest
+openpyxl
+tox
+selenium==3.14.1
